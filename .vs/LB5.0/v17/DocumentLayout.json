@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Anastasia\\source\\repos\\LB5.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC5D1353-53A4-4F01-B70A-1739425D0B71}|..\\UnitTest5.0\\UnitTest5.0.vcxproj|C:\\Users\\Anastasia\\source\\repos\\UnitTest5.0\\UnitTest5.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C87B2040-7FD2-4BDA-8898-953E0DDD63D3}|LB5.0.vcxproj|C:\\Users\\Anastasia\\source\\repos\\LB5.0\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C87B2040-7FD2-4BDA-8898-953E0DDD63D3}|LB5.0.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest5.0.cpp",
+              "DocumentMoniker": "C:\\Users\\Anastasia\\source\\repos\\UnitTest5.0\\UnitTest5.0.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest5.0\\UnitTest5.0.cpp",
+              "ToolTip": "C:\\Users\\Anastasia\\source\\repos\\UnitTest5.0\\UnitTest5.0.cpp",
+              "RelativeToolTip": "..\\UnitTest5.0\\UnitTest5.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T12:25:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Anastasia\\source\\repos\\LB5.0\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
